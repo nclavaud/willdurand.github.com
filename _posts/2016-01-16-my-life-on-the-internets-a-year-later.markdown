@@ -39,7 +39,7 @@ server, **my** data, and **my** services. I first installed [Tiny Tiny
 RSS](https://tt-rss.org/), the best RSS feed reader ever! The feature I love is
 the daily email digest. Every morning, I get an email at 8am, offering a few
 links to read. Since there is an abstract for each link, I can ignore those I am
-not interested in so that I do not spend to much time reading.
+not interested in so that I do not spend too much time reading.
 
 ![](/images/posts/tt-rss.png)
 
